@@ -4,11 +4,13 @@ Plugin Name: WCPhx Hyprtxt
 Plugin URI: http://hyprtxt.com/
 Description: This is not a plugin, it's just a start.
 Author: Taylor Young
-Version: 1.1.3
+Version: 1.1.4
 Author URI: http://hyprtxt.com/
 */
 
 // This is fun
+
+// It removed my .git dir... d'oh!
 
 add_shortcode( 'boilerplate', function ( $atts ) {
 	$html = '';
