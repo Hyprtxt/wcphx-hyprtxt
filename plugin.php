@@ -1,12 +1,14 @@
 <?php
 /*
-Plugin Name: Hyprtxt Boilerplate
+Plugin Name: WCPhx Hyprtxt
 Plugin URI: http://hyprtxt.com/
 Description: This is not a plugin, it's just a start.
 Author: Taylor Young
-Version: 1.0.1
+Version: 1.0.2
 Author URI: http://hyprtxt.com/
 */
+
+// This is amazing. It's working!
 
 add_shortcode( 'boilerplate', function ( $atts ) {
 	$html = '';
