@@ -4,7 +4,7 @@ Plugin Name: Hyprtxt Boilerplate
 Plugin URI: http://hyprtxt.com/
 Description: This is not a plugin, it's just a start.
 Author: Taylor Young
-Version: 1.0
+Version: 1.0.1
 Author URI: http://hyprtxt.com/
 */
 
